@@ -1,0 +1,12 @@
+{
+  "appId": "com.nutricommunity.app",
+  "appName": "NutriCommunity",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
